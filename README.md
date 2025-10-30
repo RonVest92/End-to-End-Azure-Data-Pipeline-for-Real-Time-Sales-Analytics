@@ -112,7 +112,7 @@ It connects directly to **Azure Synapse Analytics** and **Stream Analytics**, en
 
 ### 🖼️ Dashboard Preview
 
-![Real-Time Sales Analytics Dashboard](images/A_dashboard_titled_"Real-Time_Sales_Analytics"_pre.png)
+![Real-Time Sales Analytics Dashboard](images)
 
 ---
 
