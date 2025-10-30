@@ -103,22 +103,52 @@ Power BI Dashboard (Visualization)
 - End-to-end deployment of a real-time analytical solution.
 
 ---
-
 ## 📊 Power BI Dashboard – Real-Time Sales Analytics
 
-This dashboard visualizes the processed and curated data from Azure Synapse and Stream Analytics.  
-It provides executives with real-time sales performance, customer insights, and operational KPIs.
+This interactive **Power BI Dashboard** provides real-time insights into company-wide sales performance, customer behavior, and operational efficiency.  
+It connects directly to **Azure Synapse Analytics** and **Stream Analytics**, ensuring near real-time data updates for decision-makers.  
 
-![PowerBI_Dashboard_Screenshot](images/powerbi_dashboard_sample.png)
+---
 
-### Dashboard Highlights:
-- **Total Sales & Growth KPIs**
-- **Regional Sales Heatmap**
-- **Top Products & CLV Insights**
-- **Real-Time Data Feed Monitoring**
-- **Automated Refresh & Pipeline Status**
+### 🖼️ Dashboard Preview
 
-Each visual connects directly to live Azure datasets, updating seamlessly through Power BI’s real-time streaming capabilities.
+![Real-Time Sales Analytics Dashboard](images/A_dashboard_titled_"Real-Time_Sales_Analytics"_pre.png)
+
+---
+
+### 🧮 Key Insights & Features
+
+| Category | KPI / Visualization | Description |
+|-----------|--------------------|-------------|
+| **Performance Metrics** | 💰 **Total Sales, YoY Growth, AOV** | Track key financial indicators in real-time |
+| **Trends Analysis** | 📈 **Monthly Revenue Line Chart** | Visualize revenue fluctuations and growth patterns |
+| **Product Analysis** | 🏷️ **Top Products by Revenue** | Identify high-performing SKUs and categories |
+| **Geographic Insights** | 🗺️ **Regional Sales Heatmap** | Monitor sales by region for strategic planning |
+| **System Health** | ⚙️ **Refresh & Latency Monitor** | Display live pipeline refresh times and job status |
+
+---
+
+### ⚙️ Technical Integration
+- **Data Sources:** Azure Synapse Analytics (batch), Azure Stream Analytics (real-time)  
+- **Data Gateway:** Azure On-Premise Gateway for secure refreshes  
+- **Auto-Refresh:** 5-minute intervals for streaming data  
+- **Built With:** Power BI Desktop → Deployed via Power BI Service  
+
+---
+
+### 🚀 Value Delivered
+This dashboard bridges the gap between **data engineering and business intelligence** by providing a complete data-to-decision flow.  
+It demonstrates:
+- Real-time analytical capability  
+- Scalable Azure-based data pipelines  
+- Clear, actionable insights for business users  
+- Strong visualization design aligned with enterprise reporting standards  
+
+---
+
+📎 **Project Reference:**  
+[🔗 View full Azure Data Engineering project repository](#) *(replace with your GitHub repo link)*  
+
 
 ## 📎 Repository Structure
 ```
