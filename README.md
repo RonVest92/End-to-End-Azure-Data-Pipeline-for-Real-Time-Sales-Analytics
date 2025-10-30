@@ -112,8 +112,7 @@ It connects directly to **Azure Synapse Analytics** and **Stream Analytics**, en
 
 ### 🖼️ Dashboard Preview
 
-![Real-Time Sales Analytics Dashboard](images)
-
+![Real-Time Sales Analytics Dashboard](https://github.com/RonVest92/End-to-End-Azure-Data-Pipeline-for-Real-Time-Sales-Analytics/blob/dfea65c627a60ada2b691150e66b54803853b5c3/images/Real-Time%20Sales%20Dashboard%20Overview.png)
 ---
 
 ### 🧮 Key Insights & Features
